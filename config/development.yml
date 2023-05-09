@@ -1,0 +1,8 @@
+db:
+  host: 'kelvin-database.c37aly7ftlww.ap-southeast-1.rds.amazonaws.com'
+  username: 'kelvinc'
+  password: 'EdXbQ-VygQrBzElx8bHkQ5G_W2cm8Xyy'
+  synchronize: true
+
+jwt:
+  secret: 'topSecret51'
